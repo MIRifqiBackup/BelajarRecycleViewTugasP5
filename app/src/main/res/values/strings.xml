@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarRecycleView-Tugas</string>
+    <string name="nama">Name</string>
+    <string name="gambar">gambar</string>
+    <string name="kota">Kota</string>
+    <string name="gender">Gender</string>
+</resources>
